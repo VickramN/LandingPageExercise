@@ -65,12 +65,26 @@ body{
     width: 30%;
 }
 
-.section2{}
+.section2{
+
+}
 .section2 h2{
     text-align: center;
     font-size: 36px;
     color: #1f2937;
     font-weight: bolder;
+}
+
+.section2 img{
+    width: 250px;
+    height:250px;
+    border-radius: 35px;
+}
+
+.section2Imgs{
+    display: flex;
+    justify-content: space-around;
+
 }
 
 
