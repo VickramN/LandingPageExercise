@@ -44,6 +44,7 @@ body{
 .hero h2{
     font-size: 48px;
     margin-bottom: 0;
+    font-weight: bolder;
 }
 
 .hero p{
@@ -63,6 +64,18 @@ body{
 .heroImg{
     width: 30%;
 }
+
+.section2{}
+.section2 h2{
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bolder;
+}
+
+
+
+
 
 ul{
     list-style: none;
