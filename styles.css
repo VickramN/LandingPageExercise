@@ -90,7 +90,7 @@ body{
 }
 
 .section2Captions p{
-    justify-self: center;
+    text-align: center;
 }
 
 .section3{
@@ -106,9 +106,49 @@ body{
     text-align: center;
 }
 
+.section4{
+    height: 200px;
+}
 
+.signUpBox{
+    background-color: #3882F6;
+    margin: 100px 100px;
+    height: 125px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+}
 
+#firstLine{
+    font-size: 24px;
+    color: #f9faf8;
+    margin: 0;
+    padding: 0;
+}
 
+#secondLine{
+    color: #E5E7EB;
+    margin: 0;
+}
+
+.signUpBox button{
+    background-color: #3882F6;
+    color: #f9faf8;
+    border-radius: 5px;
+    border-style:solid;
+    border-color: #f9faf8;
+    height: 30px;
+    width: 100px;
+    font-size: 18px;
+}
+
+footer{
+    text-align: center;
+    color: #e5e7eb;
+    background-color: #1f2937;
+    padding: 40px;
+}
 
 ul{
     list-style: none;
